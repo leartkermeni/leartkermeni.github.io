@@ -1,0 +1,34 @@
+.product-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .product-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-price {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  button {
+    background-color: #009688;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #00796b;
+  }
+  
